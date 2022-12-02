@@ -1,0 +1,697 @@
+id,name,type,level,level_codes,city,state,zip_code,district,latitude,longitude,rating,rating_year,distance
+606073,Sycamore Canyon Elementary School,public,"KG,1,2,3,4,5,6",e,Santee,CA,92071,Santee School District,32.863548,-117.00518,6,2020,2.87399145
+606167,Jerabek Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92131,San Diego Unified School District,32.907898,-117.084,9,2020,3.137747772
+612041,Scripps Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92131,San Diego Unified School District,32.930462,-117.082214,9,2020,3.680694943
+605932,West Hills High School,public,"9,10,11,12",h,Santee,CA,92071,Grossmont Union High School District,32.847618,-117.013939,7,2020,3.689708203
+606052,Valley Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,32.953873,-117.046677,4,2020,3.894622143
+606204,Miramar Ranch Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92131,San Diego Unified School District,32.909454,-117.098251,9,2020,3.969933637
+606066,Carlton Oaks Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.843002,-117.01387,6,2020,3.99893621
+606195,Marshall Middle School,public,"6,7,8",m,San Diego,CA,92131,San Diego Unified School District,32.896111,-117.100945,8,2020,4.066367579
+606065,Carlton Hills Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.848186,-116.995499,7,2020,4.073443337
+611836,Creekside Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92128,Poway Unified School District,32.944256,-117.07637,9,2020,4.085006897
+606032,Garden Road Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,32.956577,-117.012032,8,2020,4.121579654
+606064,Cajon Park Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.86581,-116.971886,6,2020,4.126038003
+606132,Dingeman Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92131,San Diego Unified School District,32.933693,-117.090897,9,2020,4.220713709
+606071,Rio Seco Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.851837,-116.982506,8,2020,4.307223147
+624790,Innovations Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92131,San Diego Unified School District,32.935539,-117.095497,5,2020,4.513025837
+606042,Pomerado Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,32.958599,-117.064369,7,2020,4.546725366
+605930,Santana High School,public,"9,10,11,12",h,Santee,CA,92071,Grossmont Union High School District,32.857304,-116.969925,6,2020,4.567836504
+606037,Midland Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,32.966606,-117.03656,6,2020,4.677323251
+606067,Chet F. Harritt Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.831989,-117.017982,6,2020,4.695829968
+606233,Scripps Ranch High School,public,"9,10,11,12",h,San Diego,CA,92131,San Diego Unified School District,32.908188,-117.112503,10,2020,4.773125318
+606035,Meadowbrook Middle School,public,"6,7,8",m,Poway,CA,92064,Poway Unified School District,32.964813,-117.064423,7,2020,4.939687698
+606070,Pride Academy At Prospect Avenue,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.833492,-116.995865,7,2020,4.967594977
+606068,Hill Creek Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Santee,CA,92071,Santee School District,32.851833,-116.962456,4,2020,5.14273926
+606038,Morning Creek Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92128,Poway Unified School District,32.953075,-117.095634,8,2020,5.291259771
+606153,Hage Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.921246,-117.120636,6,2020,5.423650689
+606251,Walker Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.911358,-117.124588,5,2020,5.498255807
+606051,Twin Peaks Middle School,public,"6,7,8",m,Poway,CA,92064,Poway Unified School District,32.978729,-117.029457,7,2020,5.504253296
+606252,Wangenheim Middle School,public,"6,7,8",m,San Diego,CA,92126,San Diego Unified School District,32.906895,-117.125473,7,2020,5.510394945
+606178,Kumeyaay Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92124,San Diego Unified School District,32.836128,-117.090233,9,2020,5.545793928
+606046,Shoal Creek Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92128,Poway Unified School District,32.967541,-117.082542,7,2020,5.597543714
+606049,Tierra Bonita Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,32.980221,-117.029305,7,2020,5.6074689
+612214,Grossmont Middle College High School,public,"11,12",h,El Cajon,CA,92020,Grossmont Union High School District,32.816494,-117.006302,9,2020,5.882295227
+606130,De Portola Middle School,public,"6,7,8",m,San Diego,CA,92124,San Diego Unified School District,32.829475,-117.091911,7,2020,5.970448134
+605941,Lakeside Farms Elementary School,public,"KG,1,2,3,4,5",e,Lakeside,CA,92040,Lakeside Union Elementary School District,32.866768,-116.935432,7,2020,5.974442318
+611105,River Valley Charter School,charter,"7,8,9,10,11,12","m,h",Lakeside,CA,92040,Lakeside Union Elementary School District,32.853157,-116.940651,8,2020,6.125059962
+606243,Tierrasanta Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92124,San Diego Unified School District,32.829708,-117.097748,8,2020,6.164714728
+606034,Los Penasquitos Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.969891,-117.097031,9,2020,6.215238545
+605942,Lakeside Middle School,public,"6,7,8",m,Lakeside,CA,92040,Lakeside Union Elementary School District,32.853855,-116.937775,5,2020,6.244121814
+606033,Highland Ranch Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92128,Poway Unified School District,32.983784,-117.072006,8,2020,6.3186853
+632164,Idea Center,public,"9,10,11,12",h,El Cajon,CA,92020,Grossmont Union High School District,32.817665,-116.981194,3,2020,6.322664571
+606198,Mason Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.905983,-117.140076,7,2020,6.34896355
+606250,Vista Grande Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92124,San Diego Unified School District,32.834011,-117.10894,9,2020,6.379642897
+606137,Ericson Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.926968,-117.136261,9,2020,6.405752047
+606148,Gage Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92119,San Diego Unified School District,32.806847,-117.014626,6,2020,6.442344688
+606203,Mira Mesa High School,public,"9,10,11,12",h,San Diego,CA,92126,San Diego Unified School District,32.910744,-117.141846,9,2020,6.483826289
+606029,Canyon View Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.945889,-117.128799,9,2020,6.532533212
+606127,Dailard Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92120,San Diego Unified School District,32.805313,-117.053642,8,2020,6.610996433
+605808,Flying Hills Elementary School,public,"KG,1,2,3,4,5,6",e,El Cajon,CA,92020,Cajon Valley Union School District,32.812443,-116.981194,5,2020,6.645734276
+606069,Pepper Drive Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",El Cajon,CA,92021,Santee School District,32.827473,-116.953644,6,2020,6.678301664
+606223,Pershing Middle School,public,"6,7,8",m,San Diego,CA,92119,San Diego Unified School District,32.802261,-117.019958,6,2020,6.719537823
+606235,Serra High School,public,"9,10,11,12",h,San Diego,CA,92124,San Diego Unified School District,32.824741,-117.106621,7,2020,6.757997688
+605946,Riverview Elementary School,public,"1,2,3,4,5",e,Lakeside,CA,92040,Lakeside Union Elementary School District,32.846462,-116.932419,8,2020,6.775082953
+606139,Farb Middle School,public,"6,7,8",m,San Diego,CA,92124,San Diego Unified School District,32.820175,-117.101883,6,2020,6.831659562
+606043,Poway High School,public,"9,10,11,12",h,Poway,CA,92064,Poway Unified School District,32.998386,-117.025429,8,2020,6.869191097
+605924,El Capitan High School,public,"9,10,11,12",h,Lakeside,CA,92040,Grossmont Union High School District,32.866463,-116.917046,6,2020,6.982180894
+606044,Rancho Bernardo High School,public,"9,10,11,12",h,San Diego,CA,92128,Poway Unified School District,32.995903,-117.066856,9,2020,7.006786012
+606159,Patrick Henry High School,public,"9,10,11,12",h,San Diego,CA,92120,San Diego Unified School District,32.799065,-117.05146,8,2020,7.011944648
+606039,Mt. Carmel High School,public,"9,10,11,12",h,San Diego,CA,92129,Poway Unified School District,32.967216,-117.120934,9,2020,7.028631613
+606202,Miller Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92124,San Diego Unified School District,32.818146,-117.105515,7,2020,7.071101818
+606152,Green Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92119,San Diego Unified School District,32.797363,-117.044998,9,2020,7.074860502
+606027,Bernardo Heights Middle School,public,"6,7,8",m,San Diego,CA,92128,Poway Unified School District,32.997219,-117.065758,8,2020,7.075224626
+605960,Fletcher Hills Elementary School,public,"KG,1,2,3,4,5,6",e,El Cajon,CA,92020,La Mesa-Spring Valley School District,32.800823,-116.99511,8,2020,7.100035418
+606231,Sandburg Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.925915,-117.149635,9,2020,7.130135335
+605944,Lemon Crest Elementary School,public,"KG,1,2,3,4,5",e,Lakeside,CA,92040,Lakeside Union Elementary School District,32.852131,-116.921516,4,2020,7.1302012
+606160,Hickman Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.914925,-117.152901,8,2020,7.158890601
+606103,Benchley/Weinberger Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92119,San Diego Unified School District,32.79435,-117.032059,8,2020,7.236119776
+606045,Rolling Hills Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.990261,-117.092415,9,2020,7.238782358
+605945,Lindo Park Elementary School,public,"KG,1,2,3,4,5",e,Lakeside,CA,92040,Lakeside Union Elementary School District,32.859257,-116.914688,5,2020,7.285142356
+606028,Black Mountain Middle School,public,"6,7,8",m,San Diego,CA,92129,Poway Unified School District,32.968746,-117.125374,7,2020,7.291189556
+632177,Jonas Salk Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92126,San Diego Unified School District,32.906593,-117.15699,9,2020,7.330592665
+606048,Sunset Hills Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.968361,-117.126724,7,2020,7.332783004
+605817,Magnolia Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.814682,-116.953987,3,2020,7.345062883
+606047,Sundance Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.961395,-117.133797,9,2020,7.356676029
+606197,Marvin Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92120,San Diego Unified School District,32.796848,-117.068008,9,2020,7.383675917
+606115,Challenger Middle School,public,"6,7,8",m,San Diego,CA,92126,San Diego Unified School District,32.91293,-117.157951,8,2020,7.429584177
+632715,Grossmont Secondary,charter,"7,8,9,10,11,12","m,h",El Cajon,CA,92020,Sbe - Grossmont Secondary School District,32.806732,-116.963051,3,2020,7.499086582
+606041,Park Village Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.940845,-117.150787,9,2020,7.526313271
+606184,Lewis Middle School,public,"6,7,8",m,San Diego,CA,92120,San Diego Unified School District,32.796646,-117.078606,8,2020,7.598797022
+605947,Tierra Del Sol Middle School,public,"6,7,8",m,Lakeside,CA,92040,Lakeside Union Elementary School District,32.853893,-116.910454,4,2020,7.656882946
+605814,Johnson Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92020,Cajon Valley Union School District,32.801201,-116.968918,3,2020,7.661058571
+605973,Parkway Middle School,public,"7,8",m,La Mesa,CA,91942,La Mesa-Spring Valley School District,32.790455,-117.004196,6,2020,7.663844185
+605971,Murray Manor Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91942,La Mesa-Spring Valley School District,32.787506,-117.019501,6,2020,7.737256267
+606155,Hancock Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92124,San Diego Unified School District,32.806877,-117.108002,8,2020,7.783774715
+605972,Northmont Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91942,La Mesa-Spring Valley School District,32.78994,-116.993706,6,2020,7.844196379
+606031,Deer Canyon Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.963581,-117.142929,9,2020,7.876641356
+605811,W. D. Hall Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.821419,-116.930275,3,2020,7.932440006
+606036,Mesa Verde Middle School,public,"6,7,8",m,San Diego,CA,92129,Poway Unified School District,32.962311,-117.146187,9,2020,7.984826078
+606050,Turtleback Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92127,Poway Unified School District,33.004753,-117.087479,7,2020,8.00372078
+606143,Foster Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92120,San Diego Unified School District,32.792259,-117.084923,5,2020,8.017978177
+606040,Painted Rock Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,33.016254,-117.038994,9,2020,8.109766737
+614791,Magnolia Science Academy San Diego,charter,"6,7,8",m,San Diego,CA,92120,San Diego Unified School District,32.791691,-117.087837,8,2020,8.121426175
+605820,Naranca Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.804264,-116.947571,2,2020,8.144356382
+605803,Cajon Valley Middle School,public,"6,7,8",m,El Cajon,CA,92020,Cajon Valley Union School District,32.798756,-116.956108,3,2020,8.179996769
+632703,Pacific Coast Academy,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",El Cajon,CA,92020,Dehesa Elementary School District,32.797703,-116.958023,4,2020,8.183711956
+606026,Adobe Bluffs Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92129,Poway Unified School District,32.973297,-117.14109,9,2020,8.191327811
+606158,Hearst Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92120,San Diego Unified School District,32.783699,-117.064262,10,2020,8.203061503
+612216,Westview High School,public,"9,10,11,12",h,San Diego,CA,92129,Poway Unified School District,32.967026,-117.148354,10,2020,8.27063641
+605943,Lakeview Elementary School,public,"KG,1,2,3,4,5",e,Lakeside,CA,92040,Lakeside Union Elementary School District,32.843922,-116.903961,8,2020,8.295807598
+614247,Oak Valley Middle School,public,"6,7,8",m,San Diego,CA,92127,Poway Unified School District,33.000053,-117.109421,8,2020,8.329612139
+605923,El Cajon Valley High School,public,"9,10,11,12",h,El Cajon,CA,92021,Grossmont Union High School District,32.798962,-116.947708,3,2020,8.437346366
+605969,Maryland Avenue Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91942,La Mesa-Spring Valley School District,32.776379,-117.038719,6,2020,8.489524277
+611831,Cajon Valley Home School,public,"KG,1,2,3,4,5,6,7,8","e,m",El Cajon,CA,92021,Cajon Valley Union School District,32.808006,-116.932327,2,2020,8.506177688
+605802,Bostonia Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.808723,-116.931221,6,2020,8.513096673
+605810,Greenfield Middle School,public,"6,7,8",m,El Cajon,CA,92021,Cajon Valley Union School District,32.810337,-116.928207,3,2020,8.552656368
+605926,Grossmont High School,public,"9,10,11,12",h,La Mesa,CA,91944,Grossmont Union High School District,32.780697,-116.986351,7,2020,8.578994495
+613679,Eje Elementary Academy Charter,charter,"KG,1,2,3,4,5",e,El Cajon,CA,92020,Cajon Valley Union School District,32.784935,-116.970833,6,2020,8.623775585
+625114,Eje Middle Academy,charter,"6,7,8",m,El Cajon,CA,92020,Cajon Valley Union School District,32.784935,-116.970833,6,2020,8.623775585
+606125,Cubberley Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.801811,-117.125443,7,2020,8.674777238
+606030,Chaparral Elementary School,public,"KG,1,2,3,4,5",e,Poway,CA,92064,Poway Unified School District,33.023933,-117.050766,9,2020,8.703105621
+632708,Diego Valley East Public Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",El Cajon,CA,92021,Diego Valley East Public Charter District,32.800701,-116.935432,2,2020,8.771173897
+614490,Stone Ranch Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92127,Poway Unified School District,33.0051,-117.116554,9,2020,8.848914462
+611111,Charter School of San Diego,charter,"6,7,8,9,10,11,12","m,h",San Diego,CA,92121,San Diego Unified School District,32.90295,-117.183792,3,2020,8.87118881
+612040,Audeo Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92121,San Diego Unified School District,32.90295,-117.183792,4,2020,8.87118881
+606255,Wegeforth Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.805344,-117.135574,4,2020,8.878406676
+606242,Taft Middle School,public,"6,7,8",m,San Diego,CA,92123,San Diego Unified School District,32.801674,-117.130844,5,2020,8.883506903
+612032,Literacy First Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",El Cajon,CA,92020,San Diego County Office Of Education School District,32.787121,-116.952011,9,2020,8.990454472
+606246,Harriet Tubman Village Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92115,San Diego Unified School District,32.769775,-117.049751,5,2020,9.000296395
+605815,Lexington Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92019,Cajon Valley Union School District,32.791145,-116.942642,3,2020,9.048906384
+605807,Emerald Middle School,public,"6,7,8",m,El Cajon,CA,92020,Cajon Valley Union School District,32.778706,-116.967995,3,2020,9.08409845
+605967,Lemon Avenue Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91941,La Mesa-Spring Valley School District,32.768009,-117.008514,6,2020,9.148941802
+606170,Juarez Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.791946,-117.124962,6,2020,9.196486137
+606182,Language Academy,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92115,San Diego Unified School District,32.7682,-117.062012,7,2020,9.220789268
+612215,Barona Indian Charter School,charter,"PK,KG,1,2,3,4,5,6,7,8","p,e,m",Lakeside,CA,92040,Lakeside Union Elementary School District,32.933083,-116.877197,2,2020,9.22180894
+605804,Chase Avenue Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92020,Cajon Valley Union School District,32.779316,-116.960587,2,2020,9.227641145
+606156,Hardy Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92115,San Diego Unified School District,32.771759,-117.079178,8,2020,9.231708029
+606095,Angier Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.805496,-117.145912,7,2020,9.291866231
+624692,Innovation Middle School,public,"6,7,8",m,San Diego,CA,92117,San Diego Unified School District,32.837345,-117.173599,3,2020,9.312979234
+625267,School for Entrepreneurship and Technology,charter,"9,10,11,12",h,San Diego,CA,92123,San Diego Unified School District,32.807106,-117.148499,7,2020,9.324079436
+605816,Madison Avenue Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92019,Cajon Valley Union School District,32.799797,-116.920982,5,2020,9.369641282
+606181,Lafayette Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92117,San Diego Unified School District,32.827129,-117.169388,5,2020,9.448376353
+605975,Rolando Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91942,La Mesa-Spring Valley School District,32.762722,-117.048332,4,2020,9.475069904
+605798,Anza Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92020,Cajon Valley Union School District,32.781269,-116.947388,5,2020,9.475225248
+605819,Montgomery Middle School,public,"6,7,8",m,El Cajon,CA,92019,Cajon Valley Union School District,32.797009,-116.920845,4,2020,9.516975903
+606121,Clay Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92115,San Diego Unified School District,32.763298,-117.05864,5,2020,9.518154647
+605925,Granite Hills High School,public,"9,10,11,12",h,El Cajon,CA,92019,Grossmont Union High School District,32.799229,-116.917259,6,2020,9.546501671
+606192,Madison High School,public,"9,10,11,12",h,San Diego,CA,92117,San Diego Unified School District,32.831135,-117.174271,4,2020,9.55133098
+606169,Jones Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.795551,-117.140816,7,2020,9.583359638
+625002,Del Norte High School,public,"9,10,11,12",h,San Diego,CA,92127,Poway Unified School District,33.014809,-117.122063,10,2020,9.583925087
+606053,Westwood Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92127,Poway Unified School District,33.03054,-117.086487,8,2020,9.637234518
+630530,Kavod Charter,charter,"KG,1,2,3,4,5",e,San Diego,CA,92111,San Diego Unified School District,32.819771,-117.167946,6,2020,9.656715175
+606227,Ross Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92111,San Diego Unified School District,32.811722,-117.160919,5,2020,9.661340052
+606187,Lindbergh/Schweitzer Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92111,San Diego Unified School District,32.819019,-117.169083,5,2020,9.740560727
+632704,Diego Hills Central Public Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92115,Dehesa Elementary School District,32.760742,-117.066559,1,2020,9.779071545
+631818,Design 39 Campus,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92127,Poway Unified School District,33.017963,-117.122566,8,2020,9.782240546
+605963,La Mesa Dale Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91941,La Mesa-Spring Valley School District,32.757442,-117.032562,6,2020,9.786386966
+612450,"Creative, Performing, and Media Arts School",public,"6,7,8",m,San Diego,CA,92117,San Diego Unified School District,32.836628,-117.182388,4,2020,9.790952813
+605818,Meridian Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92019,Cajon Valley Union School District,32.78743,-116.92598,3,2020,9.82999739
+617065,Monterey Ridge Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92127,Poway Unified School District,33.026302,-117.108528,8,2020,9.874434861
+632178,Pacific Trails Middle,public,"7,8",m,San Diego,CA,92130,San Dieguito Union High School District,32.958225,-117.186424,10,2020,9.899961475
+605927,Helix High School,charter,"9,10,11,12",h,La Mesa,CA,91941,Grossmont Union High School District,32.755905,-117.03981,10,2020,9.905524004
+606234,Sequoia Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92117,San Diego Unified School District,32.828453,-117.180145,4,2020,9.939404973
+632709,Sparrow Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",La Mesa,CA,91941,La Mesa-Spring Valley School District,32.756023,-117.012711,5,2020,9.940488026
+624677,Willow Grove Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92127,Poway Unified School District,32.99263,-117.161293,9,2020,9.945296208
+614557,Learning Choice Academy,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",La Mesa,CA,91941,San Diego Unified School District,32.755714,-117.013611,5,2020,9.95630072
+632166,La Mesa Arts Academy,public,"4,5,6,7,8","e,m",La Mesa,CA,91941,La Mesa-Spring Valley School District,32.754616,-117.030495,8,2020,9.981226466
+605970,Murdock Elementary School,public,"KG,1,2,3,4,5,6",e,La Mesa,CA,91941,La Mesa-Spring Valley School District,32.759563,-116.985817,8,2020,9.989058869
+605822,Rios Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.840599,-116.873215,3,2020,10.00522947
+614326,Canyon Crest Academy,public,"9,10,11,12",h,San Diego,CA,92130,San Dieguito Union High School District,32.959076,-117.18943,10,2020,10.08299241
+606157,Hawthorne Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92117,San Diego Unified School District,32.838902,-117.189293,8,2020,10.08632296
+614872,Iftin Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92115,San Diego Unified School District,32.757908,-117.07814,4,2020,10.13137808
+614240,Kearny Engineering Innovation & Design,public,"9,10,11,12",h,San Diego,CA,92111,San Diego Unified School District,32.800209,-117.16053,8,2020,10.16088894
+614167,Kearny Digital Media & Design School,public,"9,10,11,12",h,San Diego,CA,92111,San Diego Unified School District,32.800175,-117.160545,9,2020,10.16311407
+614170,Kearny SCT School,public,"9,10,11,12",h,San Diego,CA,92111,San Diego Unified School District,32.800175,-117.160545,8,2020,10.16311407
+614172,Kearny College Connections,public,"9,10,11,12",h,San Diego,CA,92111,San Diego Unified School District,32.800175,-117.160545,8,2020,10.16311407
+606058,Mt. Woodson Elementary School,public,"KG,1,2,3,4,5,6",e,Ramona,CA,92065,Ramona City Unified School District,33.032726,-116.957558,4,2020,10.16713684
+611832,Sage Canyon School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Del Mar Union Elementary School District,32.92606,-117.203812,9,2020,10.19910398
+632174,Elevate Elementary,charter,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.786289,-117.144341,10,2020,10.2010582
+606193,Mann Middle School,public,"6,7,8",m,San Diego,CA,92115,San Diego Unified School District,32.755943,-117.07872,4,2020,10.27120186
+614544,San Diego Metro Career and Tech School,public,"9,10,11,12",h,San Diego,CA,92111,San Diego Unified School District,32.804756,-117.16906,4,2020,10.33154274
+631814,Solana Ranch Elementary,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Solana Beach Elementary School District,32.965546,-117.191795,9,2020,10.39743932
+606126,Curie Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92122,San Diego Unified School District,32.855034,-117.202614,8,2020,10.41612835
+624651,Del Sur Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92127,Poway Unified School District,33.018543,-117.140541,9,2020,10.41675159
+605956,Vista La Mesa Academy,public,"KG,1,2,3,4,5,6,7,8","e,m",La Mesa,CA,91941,Lemon Grove School District,32.748215,-117.046631,5,2020,10.46319609
+614261,Crawford High School,public,"9,10,11,12",h,San Diego,CA,92115,San Diego Unified School District,32.752197,-117.075867,4,2020,10.47819479
+614994,Sycamore Ridge School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Del Mar Union Elementary School District,32.954426,-117.199219,8,2020,10.48184349
+606163,Hoover High School,public,"9,10,11,12",h,San Diego,CA,92115,San Diego Unified School District,32.757587,-117.097794,5,2020,10.51827395
+606117,Chesterton Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92111,San Diego Unified School District,32.793861,-117.162552,8,2020,10.54570818
+611109,Mt. Everest Academy,public,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92117,San Diego Unified School District,32.819874,-117.186485,9,2020,10.55667541
+606248,University City High School,public,"9,10,11,12",h,San Diego,CA,92122,San Diego Unified School District,32.860676,-117.207085,9,2020,10.5595853
+605977,Spring Valley Middle School,public,"4,5,6,7,8","e,m",Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.750187,-116.98777,3,2020,10.58818149
+606144,Franklin Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92116,San Diego Unified School District,32.758057,-117.103493,4,2020,10.61499497
+606240,Standley Middle School,public,"6,7,8",m,San Diego,CA,92122,San Diego Unified School District,32.852932,-117.206017,7,2020,10.64783265
+606225,Rolando Park Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92115,San Diego Unified School District,32.74614,-117.054672,7,2020,10.65628829
+614629,Ibarra Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92115,San Diego Unified School District,32.752758,-117.089058,5,2020,10.65783302
+616971,Normal Heights Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92116,San Diego Unified School District,32.760872,-117.112778,7,2020,10.66570457
+606165,Fay Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.751087,-117.084145,3,2020,10.68146259
+605809,Fuerte Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92020,Cajon Valley Union School District,32.761639,-116.946609,8,2020,10.683876
+625254,San Diego Global Vision Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92116,San Diego Unified School District,32.762589,-117.119057,8,2020,10.7285701
+606129,Darnall Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92115,San Diego Unified School District,32.746605,-117.066757,4,2020,10.73799819
+606138,Euclid Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.752495,-117.093018,5,2020,10.74996458
+606140,Field Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92117,San Diego Unified School District,32.832817,-117.198654,7,2020,10.75604906
+606093,Adams Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92116,San Diego Unified School District,32.761585,-117.118248,5,2020,10.7674177
+611108,John Muir School,public,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92117,San Diego Unified School District,32.823357,-117.193817,5,2020,10.8040905
+612219,San Diego Cooperative Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92111,San Diego Unified School District,32.791138,-117.166382,4,2020,10.83655846
+606141,Fletcher Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92123,San Diego Unified School District,32.784996,-117.159065,7,2020,10.83726869
+617442,Ocean Air School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Del Mar Union Elementary School District,32.928009,-117.214859,9,2020,10.85358594
+606256,Whitman Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92117,San Diego Unified School District,32.836491,-117.203377,3,2020,10.90135211
+605959,Casa De Oro Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.747456,-116.973099,4,2020,11.00107808
+606161,Holmes Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92111,San Diego Unified School District,32.810925,-117.189018,9,2020,11.01260144
+627161,City Heights Preparatory Charter,charter,"6,7,8,9,10,11,12","m,h",San Diego,CA,92105,San Diego Unified School District,32.746319,-117.085693,4,2020,11.02284415
+606186,Linda Vista Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92111,San Diego Unified School District,32.793224,-117.173347,4,2020,11.03726745
+605799,Avocado Elementary School,public,"KG,1,2,3,4,5",e,La Mesa,CA,91941,Cajon Valley Union School District,32.750668,-116.959763,5,2020,11.05545876
+606257,Wilson Middle School,public,"6,7,8",m,San Diego,CA,92105,San Diego Unified School District,32.753971,-117.111214,4,2020,11.05611928
+605801,Blossom Valley Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.861378,-116.845711,7,2020,11.05911616
+606239,Spreckels Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92122,San Diego Unified School District,32.850182,-117.212975,7,2020,11.09027924
+605949,Lemon Grove Academy For The Sciences And Humanities,public,"KG,1,2,3,4,5,6,7,8","e,m",Lemon Grove,CA,91945,Lemon Grove School District,32.738548,-117.02916,6,2020,11.09186996
+605875,Ashley Falls Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Del Mar Union Elementary School District,32.957172,-117.209549,7,2020,11.10878683
+606114,Central Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.751202,-117.107864,3,2020,11.15060832
+606206,Montgomery Middle School,public,"6,7,8",m,San Diego,CA,92111,San Diego Unified School District,32.788528,-117.172104,4,2020,11.20216113
+606219,Rosa Parks Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.746845,-117.097473,4,2020,11.20508034
+612213,Torrey Hills School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Del Mar Union Elementary School District,32.914482,-117.223289,9,2020,11.20837113
+606113,Carver Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.739956,-117.069778,4,2020,11.22299763
+606194,Marshall Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.743519,-117.087296,6,2020,11.23499633
+631136,Health Sciences Middle,charter,"6,7,8",m,San Diego,CA,92102,San Diego Unified School District,32.749928,-117.110001,3,2020,11.28125008
+617706,Health Sciences High School,charter,"9,10,11,12",h,San Diego,CA,92105,San Diego Unified School District,32.749744,-117.110474,6,2020,11.30405508
+606133,Doyle Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92122,San Diego Unified School District,32.862984,-117.221039,9,2020,11.30875576
+627311,Empower Charter,charter,"KG,1,2,3,4,5,6",e,San Diego,CA,92111,San Diego Unified School District,32.78529,-117.172508,6,2020,11.37292803
+605955,San Miguel Elementary School,public,"KG,1,2,3,4,5,6",e,Lemon Grove,CA,91945,Lemon Grove School District,32.734791,-117.047089,5,2020,11.38963675
+606134,Edison Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92104,San Diego Unified School District,32.751095,-117.11779,7,2020,11.40032063
+605823,Vista Grande Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92019,Cajon Valley Union School District,32.764862,-116.915695,6,2020,11.43505039
+611113,Garfield Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92116,San Diego Unified School District,32.758293,-117.134766,8,2020,11.4434992
+614627,Cherokee Point Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.747433,-117.111076,4,2020,11.46415176
+605961,Highlands Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.737671,-116.980782,5,2020,11.52603365
+605952,Mount Vernon Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Lemon Grove,CA,91945,Lemon Grove School District,32.732487,-117.020424,4,2020,11.52635242
+606274,Solana Santa Fe Elementary School,public,"KG,1,2,3,4,5,6",e,Rancho Santa Fe,CA,92067,Solana Beach Elementary School District,32.997105,-117.192116,8,2020,11.54153255
+606055,Hanson Elementary School,public,"KG,1,2,3,4,5,6",e,Ramona,CA,92065,Ramona City Unified School District,33.017754,-116.890778,4,2020,11.54418209
+605821,Rancho San Diego Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92019,Cajon Valley Union School District,32.753426,-116.933426,7,2020,11.54677321
+605805,Crest Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92021,Cajon Valley Union School District,32.805191,-116.866142,5,2020,11.5575851
+605931,Valhalla High School,public,"9,10,11,12",h,El Cajon,CA,92019,Grossmont Union High School District,32.759335,-116.921211,8,2020,11.56756186
+606120,Clark Middle School,public,"6,7,8",m,San Diego,CA,92105,San Diego Unified School District,32.741154,-117.099632,3,2020,11.6174612
+606196,Marston Middle School,public,"6,7,8",m,San Diego,CA,92117,San Diego Unified School District,32.807911,-117.199631,5,2020,11.64232977
+617607,Joyner Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.741684,-117.102806,4,2020,11.64781401
+605928,Monte Vista High School,public,"9,10,11,12",h,Spring Valley,CA,91977,Grossmont Union High School District,32.73703,-116.973839,5,2020,11.67690979
+605876,Carmel Del Mar Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92130,Del Mar Union Elementary School District,32.940861,-117.227951,9,2020,11.78554314
+617705,Quest Academy,public,"6,7,8",m,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.729618,-117.007591,1,2020,11.78664173
+605958,Bancroft Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.729618,-117.007591,3,2020,11.78664173
+606112,Carson Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92111,San Diego Unified School District,32.775639,-117.171127,4,2020,11.78851206
+606213,Oak Park Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.732895,-117.080559,7,2020,11.83794599
+606271,Carmel Creek Elementary School,public,"KG,1,2,3",e,San Diego,CA,92130,Solana Beach Elementary School District,32.951405,-117.225449,10,2020,11.84593249
+605968,Loma Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91978,La Mesa-Spring Valley School District,32.73613,-116.967491,3,2020,11.84596667
+606119,Clairemont High School,public,"9,10,11,12",h,San Diego,CA,92117,San Diego Unified School District,32.808331,-117.20414,5,2020,11.84787739
+605812,Hillsdale Middle School,public,"6,7,8",m,El Cajon,CA,92019,Cajon Valley Union School District,32.748932,-116.932022,6,2020,11.85770813
+606094,Alcott Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92117,San Diego Unified School District,32.832661,-117.221039,8,2020,11.94856339
+606106,Birney Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92103,San Diego Unified School District,32.756382,-117.147797,8,2020,11.96805398
+606111,Cadman Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92117,San Diego Unified School District,32.821865,-117.216118,8,2020,11.9985261
+606154,Hamilton Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.735466,-117.100288,6,2020,12.00010812
+606166,Jefferson Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92104,San Diego Unified School District,32.747864,-117.133049,6,2020,12.01263686
+605978,Sweetwater Springs Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.731026,-116.974892,6,2020,12.05863087
+606091,Torrey Pines High School,public,"9,10,11,12",h,San Diego,CA,92130,San Dieguito Union High School District,32.957832,-117.226753,9,2020,12.05972697
+632706,Audeo Charter School III,charter,"6,7,8,9,10,11,12","m,h",Escondido,CA,92025,Audeo Charter School III District,33.071419,-117.066223,1,2020,12.08215666
+611118,Carmel Valley Middle School,public,"7,8",m,San Diego,CA,92130,San Dieguito Union High School District,32.947182,-117.231247,10,2020,12.08334473
+605954,San Altos Elementary School,public,"KG,1,2,3,4,5,6",e,Lemon Grove,CA,91945,Lemon Grove School District,32.724483,-117.046814,5,2020,12.09835336
+606190,Longfellow K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92110,San Diego Unified School District,32.783516,-117.189018,8,2020,12.16381498
+613714,Solana Pacific Elementary School,public,"4,5,6",e,San Diego,CA,92130,Solana Beach Elementary School District,32.951542,-117.231277,9,2020,12.17104838
+611112,Preuss School Ucsd,charter,"6,7,8,9,10,11,12","m,h",La Jolla,CA,92093,San Diego Unified School District,32.875469,-117.23912,9,2020,12.18831011
+605951,Monterey Heights Elementary School,public,"KG,1,2,3,4,5,6",e,Lemon Grove,CA,91945,Lemon Grove School District,32.722366,-117.033752,4,2020,12.21055215
+605909,San Pasqual High School,public,"9,10,11,12",h,Escondido,CA,92025,Escondido Union High School District,33.075062,-117.056602,6,2020,12.25018206
+605929,Mount Miguel High School,public,"9,10,11,12",h,Spring Valley,CA,91977,Grossmont Union High School District,32.722172,-117.015297,3,2020,12.25657847
+606199,McKinley Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92104,San Diego Unified School District,32.736843,-117.120956,9,2020,12.36792474
+606244,Toler Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92117,San Diego Unified School District,32.801411,-117.210152,7,2020,12.39929598
+605957,Avondale Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.71854,-117.017845,5,2020,12.49697578
+611107,Mountain Valley Academy,public,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Ramona,CA,92065,Ramona City Unified School District,33.026249,-116.877533,9,2020,12.50198653
+631816,Ramona Community Montessori,public,"KG,1,2,3,4,5,6",e,Ramona,CA,92065,Ramona City Unified School District,33.026249,-116.877533,6,2020,12.50198653
+611115,Holly Drive Leadership Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92102,San Diego Unified School District,32.724152,-117.092567,3,2020,12.60473797
+606254,Webster Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92102,San Diego Unified School District,32.724014,-117.092888,5,2020,12.61918426
+606100,Bay Park Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92110,San Diego Unified School District,32.787544,-117.203537,9,2020,12.63986044
+616871,Los Coches Creek Middle School,public,"6,7,8",m,El Cajon,CA,92021,Cajon Valley Union School District,32.860306,-116.818024,7,2020,12.64170219
+606245,Torrey Pines Elementary School,public,"KG,1,2,3,4,5",e,La Jolla,CA,92037,San Diego Unified School District,32.859169,-117.243645,9,2020,12.64659923
+606168,Johnson Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.719532,-117.074631,5,2020,12.66206706
+606059,Olive Peirce Middle School,public,"7,8",m,Ramona,CA,92065,Ramona City Unified School District,33.02663,-116.871201,5,2020,12.78382691
+606136,Encanto Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.714626,-117.059181,5,2020,12.84933202
+614400,Bear Valley Middle School,public,"6,7,8",m,Escondido,CA,92025,Escondido Union School District,33.08416,-117.057571,5,2020,12.8809686
+612038,Classical Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",Escondido,CA,92025,Escondido Union School District,33.0844,-117.055496,6,2020,12.88359762
+606226,Roosevelt International Middle School,public,"6,7,8",m,San Diego,CA,92103,San Diego Unified School District,32.740353,-117.148041,5,2020,12.90347782
+606172,Keiller Leadership Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92114,San Diego Unified School District,32.712074,-117.042412,4,2020,12.93773534
+606142,Florence Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92103,San Diego Unified School District,32.748898,-117.164299,8,2020,12.94687884
+605894,L. R. Green Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92025,Escondido Union School District,33.084949,-117.059532,7,2020,12.94914375
+606228,Rowan Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92105,San Diego Unified School District,32.724125,-117.112274,7,2020,12.97785925
+606061,Ramona High School,public,"9,10,11,12",h,Ramona,CA,92065,Ramona City Unified School District,33.027843,-116.867821,7,2020,12.98370761
+624725,Millennial Tech Middle School,public,"6,7,8",m,San Diego,CA,92102,San Diego Unified School District,32.717468,-117.089256,2,2020,12.99683286
+605813,Jamacha Elementary School,public,"KG,1,2,3,4,5",e,El Cajon,CA,92019,Cajon Valley Union School District,32.739555,-116.91201,6,2020,13.0065182
+605878,Del Mar Hills Elementary School,public,"KG,1,2,3,4,5,6",e,Del Mar,CA,92014,Del Mar Union Elementary School District,32.95351,-117.245934,9,2020,13.02346303
+632167,"Science, Technology, Engineering, Arts, And Math Academy At La Presa",public,"4,5,6,7,8","e,m",Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.711674,-117.005157,6,2020,13.03450359
+606205,Mission Bay High School,public,"9,10,11,12",h,San Diego,CA,92109,San Diego Unified School District,32.801224,-117.223503,6,2020,13.06294382
+606096,Audubon K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92114,San Diego Unified School District,32.70985,-117.030373,4,2020,13.07427641
+605877,Del Mar Heights Elementary School,public,"KG,1,2,3,4,5,6",e,Del Mar,CA,92014,Del Mar Union Elementary School District,32.94529,-117.249565,9,2020,13.07560242
+606099,Barnard Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92109,San Diego Unified School District,32.802177,-117.2248,8,2020,13.09357625
+605962,Kempton Street Elementary School,public,"KG,1,2,3",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.710743,-117.002121,3,2020,13.11973045
+625127,Gompers Preparatory Academy,charter,"6,7,8,9,10,11,12","m,h",San Diego,CA,92102,San Diego Unified School District,32.71611,-117.093567,5,2020,13.15445276
+611835,Steele Canyon High School,charter,"9,10,11,12",h,Spring Valley,CA,91978,Grossmont Union High School District,32.730297,-116.925171,8,2020,13.18000733
+632159,Methodschools,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",El Cajon,CA,92019,Dehesa Elementary School District,32.781773,-116.850906,4,2020,13.22562106
+605788,Shadow Hills Elementary School,public,"KG,1,2,3,4,5",e,Alpine,CA,91901,Alpine Union Elementary School District,32.8325,-116.817093,6,2020,13.2356494
+605874,Dehesa School,public,"KG,1,2,3,4,5,6,7,8","e,m",El Cajon,CA,92019,Dehesa Elementary School District,32.781551,-116.850883,4,2020,13.23608871
+606236,Sessions Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92109,San Diego Unified School District,32.809109,-117.232292,9,2020,13.23718481
+606062,R. Roger Rowe Elementary School,public,"KG,1,2,3,4,5",e,Rancho Santa Fe,CA,92067,Rancho Santa Fe Elementary School District,33.021561,-117.20681,10,2020,13.25039271
+606063,R. Roger Rowe Middle School,public,"6,7,8",m,Rancho Santa Fe,CA,92067,Rancho Santa Fe Elementary School District,33.021561,-117.20681,9,2020,13.25039271
+606164,Horton Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.712601,-117.087219,4,2020,13.29222538
+606232,Mcgill School Of Success,charter,"KG,1,2,3,4,5",e,San Diego,CA,92102,San Diego Unified School District,32.725479,-117.1297,4,2020,13.29489232
+614621,Bernardo Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92029,Escondido Union School District,33.085102,-117.091133,7,2020,13.31820001
+606151,Grant K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92103,San Diego Unified School District,32.749538,-117.176247,8,2020,13.33903153
+632160,Mosaica Online Academy Of Southern California,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",El Cajon,CA,92019,Dehesa Elementary School District,32.781116,-116.848892,4,2020,13.34590702
+632161,Inspire Charter School - South,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",El Cajon,CA,92019,Dehesa Elementary School District,32.781116,-116.848892,4,2020,13.34590702
+625641,America's Finest Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92102,San Diego Unified School District,32.712837,-117.098083,5,2020,13.44564542
+606145,Freese Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.704327,-117.027687,6,2020,13.45716629
+605974,Rancho Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.704594,-117.01503,5,2020,13.46912585
+605965,La Presa Elementary School,public,"KG,1,2,3,4,5,6",e,Spring Valley,CA,91977,La Mesa-Spring Valley School District,32.705929,-116.993118,4,2020,13.52472442
+614622,Golden Hill K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92102,San Diego Unified School District,32.71875,-117.123695,4,2020,13.57378242
+612220,Einstein Academy,charter,"KG,1,2,3,4,5",e,San Diego,CA,92102,San Diego Unified School District,32.720188,-117.129463,6,2020,13.61990133
+606147,Fulton K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92114,San Diego Unified School District,32.701492,-117.045929,4,2020,13.67944437
+612633,Future Bound Independent Study Secondary School,public,"7,8,9,10,11,12","m,h",Ramona,CA,92065,Ramona City Unified School District,33.039322,-116.863724,2,2020,13.70600805
+606057,Montecito High (Continuation) School,public,"9,10,11,12",h,Ramona,CA,92065,Ramona City Unified School District,33.039322,-116.863724,2,2020,13.70600805
+632176,Ingenuity Charter,charter,"6,7,8,9,10,11,12","m,h",San Diego,CA,92114,San Diego Unified School District,32.702042,-117.064636,2,2020,13.75364808
+606207,Morse High School,public,"9,10,11,12",h,San Diego,CA,92114,San Diego Unified School District,32.699951,-117.047775,6,2020,13.79288963
+606060,Ramona Elementary School,public,"KG,1,2,3,4,5,6",e,Ramona,CA,92065,Ramona City Unified School District,33.042313,-116.865196,3,2020,13.79320591
+606249,Valencia Park Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.702328,-117.07132,6,2020,13.79475251
+606215,The O'Farrell Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92114,San Diego Unified School District,32.701374,-117.06485,7,2020,13.80110418
+606118,Chollas/Mead Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92113,San Diego Unified School District,32.706249,-117.097961,7,2020,13.87995079
+606209,Museum,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92103,San Diego Unified School District,32.732422,-117.165138,7,2020,13.90359651
+617474,Lincoln High School,public,"9,10,11,12",h,San Diego,CA,92113,San Diego Unified School District,32.703991,-117.092026,4,2020,13.93809574
+605898,Miller Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92025,Escondido Union School District,33.096893,-117.079865,6,2020,13.95888377
+625137,iHigh Virtual Academy,public,"9,10,11,12",h,San Diego,CA,92110,San Diego Unified School District,32.750874,-117.194618,8,2020,13.97015857
+625643,Old Town Academy K-8 Charter,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92110,San Diego Unified School District,32.746574,-117.189247,8,2020,13.98256863
+606217,Pacific Beach Middle School,public,"6,7,8",m,San Diego,CA,92109,San Diego Unified School District,32.801666,-117.242996,6,2020,14.02859371
+606107,Boone Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.695667,-117.0364,4,2020,14.05776778
+606124,Crown Point Jr Music Academy,public,"KG,1,2,3,4,5",e,San Diego,CA,92109,San Diego Unified School District,32.79335,-117.238632,7,2020,14.09637615
+625575,Urban Corps Of San Diego County Charter,charter,"9,10,11,12",h,San Diego,CA,92110,Mono County Office Of Education School District,32.755482,-117.203537,1,2020,14.10148757
+606216,Pacific Beach Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92109,San Diego Unified School District,32.809727,-117.250343,7,2020,14.15202816
+614146,San Diego International Studies School,public,"9,10,11,12",h,San Diego,CA,92101,San Diego Unified School District,32.720428,-117.150742,8,2020,14.16893012
+614157,San Diego Business,public,"9,10,11,12",h,San Diego,CA,92101,San Diego Unified School District,32.720428,-117.150742,3,2020,14.16893012
+614349,San Diego Science and Technology School,public,"9,10,11,12",h,San Diego,CA,92101,San Diego Unified School District,32.720428,-117.150742,4,2020,14.16893012
+624811,East Village High,public,"9,10,11,12",h,San Diego,CA,92101,San Diego Unified School District,32.720428,-117.150742,6,2020,14.16893012
+606212,Nye Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92114,San Diego Unified School District,32.695927,-117.068832,8,2020,14.20769694
+614695,King-Chavez Arts Academy,charter,"3,4,5",e,San Diego,CA,92102,San Diego Unified School District,32.709846,-117.127419,2,2020,14.22448146
+614699,King-Chavez Athletics Academy,charter,"3,4,5",e,San Diego,CA,92102,San Diego Unified School District,32.709846,-117.127419,4,2020,14.22448146
+616957,King-Chavez Preparatory Academy,charter,"6,7,8",m,San Diego,CA,92102,San Diego Unified School District,32.71059,-117.130302,3,2020,14.2442349
+614624,Porter Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92113,San Diego Unified School District,32.699089,-117.092278,3,2020,14.26957013
+606174,Kimbrough Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92102,San Diego Unified School District,32.70945,-117.131989,3,2020,14.35607019
+605896,Juniper Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92025,Escondido Union School District,33.105095,-117.067619,4,2020,14.39244784
+606253,Washington Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92101,San Diego Unified School District,32.72414,-117.166504,5,2020,14.42441933
+631095,Del Lago Academy - Campus Of Applied Science,public,"9,10,11,12",h,Escondido,CA,92029,Escondido Union High School District,33.099567,-117.104095,9,2020,14.48679707
+616997,Albert Einstein Academy Charter Middle,charter,"6,7,8",m,San Diego,CA,92102,San Diego Unified School District,32.709721,-117.138161,5,2020,14.48936334
+625642,Knox Middle,public,"6,7,8",m,San Diego,CA,92113,San Diego Unified School District,32.695282,-117.09021,2,2020,14.4954559
+606179,La Jolla Elementary School,public,"KG,1,2,3,4,5",e,La Jolla,CA,92037,San Diego Unified School District,32.839069,-117.270599,9,2020,14.51280214
+606208,Muirlands Middle School,public,"6,7,8",m,La Jolla,CA,92037,San Diego Unified School District,32.832672,-117.26844,8,2020,14.52673518
+606097,Baker Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92113,San Diego Unified School District,32.698421,-117.106827,4,2020,14.54759902
+606104,Bethune K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92114,San Diego Unified School District,32.688858,-117.049362,7,2020,14.56400326
+605891,Felicita Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92025,Escondido Union School District,33.105358,-117.083427,4,2020,14.57370226
+606102,Bell Middle School,public,"6,7,8",m,San Diego,CA,92139,San Diego Unified School District,32.688248,-117.040283,4,2020,14.57689798
+624784,Urban Discovery Academy Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Diego,CA,92101,San Diego Unified School District,32.714191,-117.152237,3,2020,14.58772416
+625009,King-Chavez Community High School,charter,"9,10,11,12",h,San Diego,CA,92101,San Diego Unified School District,32.718822,-117.162643,2,2020,14.61523109
+606275,Solana Vista Elementary School,public,"KG,1,2,3",e,Solana Beach,CA,92075,Solana Beach Elementary School District,33.003777,-117.250618,10,2020,14.64767544
+606237,Sherman Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92102,San Diego Unified School District,32.708839,-117.143021,5,2020,14.6674817
+606131,Dewey Elementary School,public,"KG,1,2,3,4",e,San Diego,CA,92110,San Diego Unified School District,32.746521,-117.207283,8,2020,14.69481651
+606276,San Pasqual Union Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Escondido,CA,92027,San Pasqual Union Elementary School District,33.111275,-117.011055,6,2020,14.70686493
+606180,La Jolla High School,public,"9,10,11,12",h,La Jolla,CA,92037,San Diego Unified School District,32.833427,-117.272758,8,2020,14.74852735
+612471,KIPP Adelante Preparatory Academy,charter,"5,6,7,8","e,m",San Diego,CA,92101,San Diego Unified School District,32.715736,-117.161079,6,2020,14.75067854
+606222,Perry Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92139,San Diego Unified School District,32.686302,-117.059227,6,2020,14.79276784
+632447,San Diego Workforce Innovation High,charter,"9,10,11,12",h,National City,CA,91950,Borrego Springs Unified School District,32.689526,-117.085098,2,2020,14.81624393
+606105,Bird Rock Elementary School,public,"KG,1,2,3,4,5",e,La Jolla,CA,92037,San Diego Unified School District,32.810806,-117.264153,10,2020,14.84656194
+606188,Logan K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92113,San Diego Unified School District,32.700752,-117.132599,4,2020,14.92066126
+605991,Ira Harbison School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.686054,-117.073662,3,2020,14.92608585
+631013,e3 Civic High School,charter,"9,10,11,12",h,San Diego,CA,92101,San Diego Unified School District,32.709248,-117.154633,5,2020,14.95414456
+617695,Rodriguez Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92113,San Diego Unified School District,32.698017,-117.126892,4,2020,14.96789056
+606092,Earl Warren Middle School,public,"7,8",m,Solana Beach,CA,92075,San Dieguito Union High School District,32.994736,-117.26268,8,2020,14.97425839
+605990,El Toyon Elementary School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.687901,-117.088921,4,2020,14.97435595
+606135,Emerson/Bandini Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92113,San Diego Unified School District,32.694569,-117.11689,3,2020,14.98591099
+606272,Skyline Elementary School,public,"KG,1,2,3,4,5,6",e,Solana Beach,CA,92075,Solana Beach Elementary School District,32.9967,-117.261848,8,2020,14.99141698
+605995,Rancho de la Nacion School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.687458,-117.089684,4,2020,15.01419029
+606116,Chavez Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92113,San Diego Unified School District,32.69186,-117.109093,3,2020,15.01954217
+606109,Burbank Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92113,San Diego Unified School District,32.700367,-117.138191,3,2020,15.07635428
+624726,Memorial Scholars & Athletes School,public,"6,7,8",m,San Diego,CA,92113,San Diego Unified School District,32.697422,-117.13208,3,2020,15.12054569
+606258,Zamorano Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92139,San Diego Unified School District,32.680229,-117.038536,7,2020,15.12729131
+605890,Del Dios Middle School,public,"6,7,8",m,Escondido,CA,92029,Escondido Union School District,33.110561,-117.101105,5,2020,15.16735867
+612042,King-Chavez Academy Of Excellence,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92113,San Diego Unified School District,32.697964,-117.135803,3,2020,15.1715374
+606229,San Diego Scpa School,public,"6,7,8,9,10,11,12","m,h",San Diego,CA,92139,San Diego Unified School District,32.679928,-117.048149,7,2020,15.17460822
+606054,Barnett Elementary School,public,"KG,1,2,3,4,5,6",e,Ramona,CA,92065,Ramona City Unified School District,33.018528,-116.810844,5,2020,15.19647806
+606218,Paradise Hills Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92139,San Diego Unified School District,32.680233,-117.066536,6,2020,15.26127667
+614439,Perkins Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92113,San Diego Unified School District,32.700825,-117.148491,3,2020,15.30484609
+606098,Balboa Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92113,San Diego Unified School District,32.686619,-117.108521,5,2020,15.35537736
+605998,Palmer Way,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.679543,-117.077652,6,2020,15.40900307
+605888,Central Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92025,Escondido Union School District,33.118843,-117.08033,3,2020,15.45185542
+605785,Alpine Elementary School,public,"1,2,3,4,5",e,Alpine,CA,91901,Alpine Union Elementary School District,32.838383,-116.774185,4,2020,15.47910945
+605933,Jamul Intermediate School,public,"4,5",e,Jamul,CA,91935,Jamul-Dulzura Union Elementary School District,32.728996,-116.856155,5,2020,15.52766476
+605935,Oak Grove Middle School,public,"6,7,8",m,Jamul,CA,91935,Jamul-Dulzura Union Elementary School District,32.724049,-116.861725,4,2020,15.58213553
+606220,Penn Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92139,San Diego Unified School District,32.673878,-117.047272,6,2020,15.58856177
+606189,Loma Portal Elementary School,public,"KG,1,2,3,4",e,San Diego,CA,92106,San Diego Unified School District,32.739891,-117.221863,7,2020,15.61620664
+605854,Sunnyside Elementary School,public,"KG,1,2,3,4,5,6",e,Bonita,CA,91902,Chula Vista Elementary School District,32.673458,-117.014168,7,2020,15.61910597
+611102,Greater San Diego Academy,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Jamul,CA,91935,Jamul-Dulzura Union Elementary School District,32.729359,-116.853149,6,2020,15.62347049
+605934,Jamul Primary School,public,"KG,1,2,3",e,Jamul,CA,91935,Jamul-Dulzura Union Elementary School District,32.729359,-116.853149,5,2020,15.62347049
+611837,High Tech High,charter,"9,10,11,12",h,San Diego,CA,92106,San Diego Unified School District,32.734039,-117.215141,6,2020,15.63424634
+606122,Correia Middle School,public,"7,8",m,San Diego,CA,92107,San Diego Unified School District,32.746998,-117.231232,6,2020,15.67329651
+612442,High Tech Middle School,charter,"6,7,8",m,San Diego,CA,92106,San Diego Unified School District,32.735241,-117.218048,6,2020,15.69013571
+605786,Boulder Oaks Elementary School,public,"1,2,3,4,5",e,Alpine,CA,91901,Alpine Union Elementary School District,32.818611,-116.777679,6,2020,15.71538332
+605787,Joan Macqueen Middle School,public,"6,7,8",m,Alpine,CA,91901,Alpine Union Elementary School District,32.824661,-116.773956,6,2020,15.77605478
+613754,High Tech High Media Arts School,charter,"9,10,11,12",h,San Diego,CA,92106,San Diego Unified School District,32.734734,-117.219704,7,2020,15.78208147
+611839,Explorer Elementary School,charter,"KG,1,2,3,4,5",e,San Diego,CA,92106,San Diego Unified School District,32.734604,-117.219749,6,2020,15.79036251
+614635,High Tech Middle Media Arts School,charter,"6,7,8",m,San Diego,CA,92106,San Diego Unified School District,32.734604,-117.219749,6,2020,15.79036251
+614535,High Tech High International School,charter,"9,10,11,12",h,San Diego,CA,92106,San Diego Unified School District,32.732613,-117.217392,8,2020,15.79561249
+617083,Classical Academy High School,charter,"9,10,11,12",h,Escondido,CA,92025,Escondido Union High School District,33.124187,-117.080566,9,2020,15.81731642
+606224,Point Loma High School,public,"9,10,11,12",h,San Diego,CA,92106,San Diego Unified School District,32.739334,-117.226234,7,2020,15.82423602
+632175,High Tech Elementary,charter,"KG,1,2,3,4,5",e,San Diego,CA,92106,San Diego Unified School District,32.731712,-117.217369,5,2020,15.84012701
+606056,James Dukes Elementary School,public,"KG,1,2,3,4,5,6",e,Ramona,CA,92065,Ramona City Unified School District,33.008862,-116.791031,7,2020,15.84323636
+606285,Granger Junior High School,public,"7,8,9",m,National City,CA,91950,Sweetwater Union High School District,32.672329,-117.072418,4,2020,15.85086681
+606183,Lee Elementary School,public,"KG,1,2,3,4,5",e,San Diego,CA,92139,San Diego Unified School District,32.670425,-117.058006,4,2020,15.87628282
+605908,Orange Glen High School,public,"9,10,11,12",h,Escondido,CA,92027,Escondido Union High School District,33.128895,-117.040604,4,2020,15.88895448
+605989,Central Elementary School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.676292,-117.100372,5,2020,15.91242808
+605886,Park Dale Lane Elementary School,public,"KG,1,2,3,4,5,6",e,Encinitas,CA,92024,Encinitas Union Elementary School District,33.047829,-117.241913,6,2020,15.97435595
+605994,Lincoln Acres School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.67057,-117.075638,4,2020,16.0002908
+605993,Las Palmas School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.671577,-117.083221,5,2020,16.00932059
+612339,Integrity Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",National City,CA,91950,National Elementary School District,32.676262,-117.10704,6,2020,16.01696969
+605900,Oak Hill Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92027,Escondido Union School District,33.130669,-117.049759,4,2020,16.03875812
+632446,Epiphany Prep Charter,charter,"KG,1,2,3,4,5,6,7,8","e,m",Escondido,CA,92025,Escondido Union School District,33.127934,-117.089546,3,2020,16.17313246
+605895,Hidden Valley Middle School,public,"6,7,8",m,Escondido,CA,92027,Escondido Union School District,33.13485,-117.033432,4,2020,16.29118024
+632388,Double Peak K-8,public,"KG,1,2,3,4,5,6,7,8","e,m",San Marcos,CA,92078,San Marcos Unified School District,33.10638,-117.165825,9,2020,16.3171213
+605997,John A. Otis Elementary School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.669395,-117.096832,6,2020,16.3244591
+606292,National City Middle School,public,"7,8",m,National City,CA,91950,Sweetwater Union High School District,32.669369,-117.099403,4,2020,16.36186387
+606086,Diegueno Middle School,public,"7,8",m,Encinitas,CA,92024,San Dieguito Union High School District,33.057575,-117.241432,8,2020,16.39445052
+606128,Dana,public,"5,6",e,San Diego,CA,92106,San Diego Unified School District,32.732296,-117.232704,6,2020,16.43318193
+605893,Mission Middle School,public,"6,7,8",m,Escondido,CA,92025,Escondido Union School District,33.134186,-117.073959,4,2020,16.43473474
+612440,Heritage K-8 Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",Escondido,CA,92027,Escondido Union School District,33.136223,-117.054482,7,2020,16.44206818
+606214,Ocean Beach Elementary School,public,"KG,1,2,3,4",e,San Diego,CA,92107,San Diego Unified School District,32.745098,-117.246925,10,2020,16.44551182
+614179,Liberty Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91914,Chula Vista Elementary School District,32.664944,-116.978951,8,2020,16.4564455
+605906,Escondido Charter High School,charter,"9,10,11,12",h,Escondido,CA,92027,Escondido Union High School District,33.136448,-117.05426,7,2020,16.45650142
+605884,Olivenhain Pioneer Elementary School,public,"KG,1,2,3,4,5,6",e,Carlsbad,CA,92009,Encinitas Union Elementary School District,33.061676,-117.238815,9,2020,16.47360409
+605857,Valley Vista Elementary School,public,"KG,1,2,3,4,5,6",e,Bonita,CA,91902,Chula Vista Elementary School District,32.659702,-117.04847,5,2020,16.57045808
+605897,Lincoln Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92026,Escondido Union School District,33.13443,-117.087494,3,2020,16.58831198
+605860,Coronado Middle School,public,"6,7,8",m,Coronado,CA,92118,Coronado Unified School District,32.693996,-117.179688,9,2020,16.59563175
+627073,The Heights Charter,charter,"KG,1,2,3,4,5,6,7,8","e,m",Alpine,CA,91901,Dehesa Elementary School District,32.835106,-116.755287,7,2020,16.59661538
+631092,Community Montessori Charter,charter,"KG,1,2,3,4,5,6,7,8","e,m",Escondido,CA,92026,Community Montessori District,33.129498,-117.112206,6,2020,16.60235376
+612036,Dehesa Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Escondido,CA,92026,Dehesa Elementary School District,33.129837,-117.111931,4,2020,16.62031019
+606087,La Costa Canyon High School,public,"9,10,11,12",h,Carlsbad,CA,92009,San Dieguito Union High School District,33.073452,-117.229904,7,2020,16.67714902
+605859,Coronado High School,public,"9,10,11,12",h,Coronado,CA,92118,Coronado Unified School District,32.691898,-117.178352,10,2020,16.67966123
+605861,Village Elementary School,public,"KG,1,2,3,4,5",e,Coronado,CA,92118,Coronado Unified School District,32.693375,-117.18148,8,2020,16.6865945
+614474,Farr Avenue Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92026,Escondido Union School District,33.137665,-117.076744,4,2020,16.69724359
+605992,Kimball School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.665894,-117.106438,4,2020,16.69753129
+605902,Pioneer Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92027,Escondido Union School District,33.138901,-117.072144,4,2020,16.74148844
+605996,Olivewood School,public,"KG,1,2,3,4,5,6",e,National City,CA,91950,National Elementary School District,32.662373,-117.092857,4,2020,16.7454211
+605824,Allen (Ella B.) Elementary School,public,"KG,1,2,3,4,5,6",e,Bonita,CA,91902,Chula Vista Elementary School District,32.656178,-117.033279,7,2020,16.78317695
+605797,Ada W. Harris Elementary School,public,"3,4,5,6",e,Cardiff-by-the-Sea,CA,92007,Cardiff Elementary School District,33.031151,-117.274658,7,2020,16.81910224
+617072,San Elijo Elementary School,public,"KG,1,2,3,4,5",e,San Marcos,CA,92078,San Marcos Unified School District,33.100368,-117.194481,8,2020,16.82975071
+605880,Flora Vista Elementary School,public,"KG,1,2,3,4,5,6",e,Encinitas,CA,92024,Encinitas Union Elementary School District,33.056129,-117.253555,8,2020,16.85946289
+613780,San Elijo Middle School,public,"6,7,8",m,San Marcos,CA,92078,San Marcos Unified School District,33.098854,-117.198158,8,2020,16.86496949
+606088,Oak Crest Middle School,public,"7,8",m,Encinitas,CA,92024,San Dieguito Union High School District,33.043076,-117.26651,7,2020,16.89527881
+606297,Sweetwater High School,public,"9,10,11,12",h,National City,CA,91950,Sweetwater Union High School District,32.659966,-117.092125,5,2020,16.89890079
+632162,Quantum Academy,public,"4,5,6,7,8","e,m",Escondido,CA,92027,Escondido Union School District,33.143681,-117.034996,7,2020,16.90233885
+606238,Silver Gate Elementary School,public,"KG,1,2,3,4",e,San Diego,CA,92107,San Diego Unified School District,32.732117,-117.243912,9,2020,16.91178061
+611096,Marshall (Thurgood) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91914,Chula Vista Elementary School District,32.659927,-116.967262,8,2020,16.93260529
+605901,Orange Glen Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92027,Escondido Union School District,33.14463,-117.035988,4,2020,16.96879528
+605905,Rose Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92027,Escondido Union School District,33.143253,-117.064331,5,2020,16.98166391
+606110,Cabrillo Elementary School,public,"KG,1,2,3,4",e,San Diego,CA,92106,San Diego Unified School District,32.721676,-117.233437,4,2020,16.98571837
+612037,Mission Estancia Elementary School,public,"KG,1,2,3,4,5,6",e,Carlsbad,CA,92009,Encinitas Union Elementary School District,33.074051,-117.238075,8,2020,17.03733518
+605904,Rock Springs Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92026,Escondido Union School District,33.137581,-117.106621,3,2020,17.05253644
+605832,Eastlake Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.655357,-116.984276,9,2020,17.05616402
+605883,Ocean Knoll Elementary School,public,"KG,1,2,3,4,5,6",e,Encinitas,CA,92024,Encinitas Union Elementary School District,33.040993,-117.272064,7,2020,17.07359787
+606089,San Dieguito High Academy,public,"9,10,11,12",h,Encinitas,CA,92024,San Dieguito Union High School District,33.037983,-117.275696,8,2020,17.12917904
+605892,Glen View Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92027,Escondido Union School District,33.14632,-117.053551,6,2020,17.13318628
+605889,Conway Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92027,Escondido Union School District,33.146088,-117.074249,5,2020,17.25043807
+605907,Escondido High School,public,"9,10,11,12",h,Escondido,CA,92026,Escondido Union High School District,33.144325,-117.090851,5,2020,17.29698945
+606261,Knob Hill Elementary School,public,"KG,1,2,3,4,5",e,San Marcos,CA,92069,San Marcos Unified School District,33.138874,-117.117836,7,2020,17.31648626
+606278,Bonita Vista Middle School,public,"7,8",m,Chula Vista,CA,91910,Sweetwater Union High School District,32.649082,-117.006409,6,2020,17.33161047
+632716,Sweetwater Secondary,charter,"7,8,9,10,11,12","m,h",Chula Vista,CA,91910,Sbe - Sweetwater Secondary School District,32.648781,-117.053383,3,2020,17.34278648
+605852,Rosebank Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.649754,-117.072716,6,2020,17.39659861
+606090,Sunset High (Continuation) School,public,"9,10,11,12",h,Encinitas,CA,92024,San Dieguito Union High School District,33.043827,-117.277557,4,2020,17.4465402
+605829,Clear View,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.645943,-117.045067,8,2020,17.50904408
+605881,La Costa Heights Elementary School,public,"KG,1,2,3,4,5,6",e,Carlsbad,CA,92009,Encinitas Union Elementary School District,33.079563,-117.243683,9,2020,17.536359
+612517,Eastlake Middle School,public,"7,8",m,Chula Vista,CA,91914,Sweetwater Union High School District,32.65469,-116.948082,8,2020,17.55812818
+606279,Bonita Vista Senior High School,public,"9,10,11,12",h,Chula Vista,CA,91913,Sweetwater Union High School District,32.646126,-116.998215,8,2020,17.58026396
+606241,Sunset View Elementary School,public,"KG,1,2,3,4",e,San Diego,CA,92107,San Diego Unified School District,32.723946,-117.250748,9,2020,17.58814483
+605855,Tiffany (Burton C.) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.645077,-116.991707,7,2020,17.69703419
+605831,Discovery Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",Chula Vista,CA,91910,Chula Vista Elementary School District,32.641918,-117.017593,9,2020,17.78481676
+632689,Community Collaborative Virtual - Sage Oak Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Marcos,CA,92078,Helendale Elementary School District,33.104179,-117.218849,6,2020,17.87137336
+632604,Community Collaborative Virtual - Keppel Partnership Academy,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Marcos,CA,92078,COM Collaborative Virtual - Keppel Partnership ACAD District,33.104259,-117.218887,5,2020,17.87709558
+614185,Salt Creek Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91914,Chula Vista Elementary School District,32.647465,-116.94854,9,2020,18.03169187
+611833,El Camino Creek Elementary School,public,"KG,1,2,3,4,5,6",e,Carlsbad,CA,92009,Encinitas Union Elementary School District,33.075867,-117.259895,8,2020,18.03545739
+605903,Rincon Middle School,public,"6,7,8",m,Escondido,CA,92026,Escondido Union School District,33.157249,-117.082214,4,2020,18.08375048
+605833,Feaster (Mae L.) Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",Chula Vista,CA,91910,Chula Vista Elementary School District,32.642227,-117.096863,7,2020,18.15510768
+613848,Mission Hills High School,public,"9,10,11,12",h,San Marcos,CA,92069,San Marcos Unified School District,33.14492,-117.141914,6,2020,18.16220562
+606287,Hilltop Senior High School,public,"9,10,11,12",h,Chula Vista,CA,91910,Sweetwater Union High School District,32.637009,-117.05941,7,2020,18.18246859
+605828,Chula Vista Hills Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.63665,-117.004288,7,2020,18.19788858
+625541,Howard Gardner Community Charter,charter,"KG,1,2,3,4,5,6,7,8","e,m",Chula Vista,CA,91910,Chula Vista Elementary School District,32.641094,-117.095436,4,2020,18.21440653
+606270,Woodland Park Middle School,public,"6,7,8",m,San Marcos,CA,92069,San Marcos Unified School District,33.149223,-117.130524,6,2020,18.22097941
+606284,Eastlake High School,public,"9,10,11,12",h,Chula Vista,CA,91915,Sweetwater Union High School District,32.640316,-116.967628,9,2020,18.25305405
+605835,Halecrest Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.634773,-117.045181,6,2020,18.28030621
+606259,Discovery Elementary School,public,"KG,1,2,3,4,5",e,San Marcos,CA,92078,San Marcos Unified School District,33.128632,-117.190666,8,2020,18.36318988
+632099,Community Collaborative Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",San Marcos,CA,92069,Community Collaborative Charter District - Acton-Agua Dulce,33.141521,-117.16246,4,2020,18.40287447
+605845,Olympic View Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91915,Chula Vista Elementary School District,32.637184,-116.965477,8,2020,18.49038301
+625265,San Diego Virtual,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Chula Vista,CA,91910,Mountain Empire Unified School District,32.63422,-117.07679,3,2020,18.49264543
+606282,Chula Vista Middle School,public,"7,8",m,Chula Vista,CA,91910,Sweetwater Union High School District,32.635181,-117.084557,4,2020,18.49756422
+606265,San Marcos Elementary School,public,"KG,1,2,3,4,5",e,San Marcos,CA,92069,San Marcos Unified School District,33.141251,-117.168297,5,2020,18.52859309
+612035,McMillin (Corky) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.633709,-116.984032,7,2020,18.5365392
+605837,Hilltop Drive Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.632042,-117.064102,6,2020,18.55059093
+605858,Vista Square Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.634499,-117.087502,5,2020,18.57352269
+611097,Arroyo Vista Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",Chula Vista,CA,91915,Chula Vista Elementary School District,32.638126,-116.952522,9,2020,18.59662905
+605899,North Broadway Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92026,Escondido Union School District,33.163097,-117.093346,5,2020,18.59694036
+606294,Rancho Del Rey Middle School,public,"7,8",m,Chula Vista,CA,91910,Sweetwater Union High School District,32.62991,-117.008995,7,2020,18.64123802
+606262,La Costa Meadows Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92009,San Marcos Unified School District,33.10358,-117.240974,8,2020,18.64881939
+605825,Casillas (Joseph) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91910,Chula Vista Elementary School District,32.629375,-117.01104,8,2020,18.67038227
+606286,Hilltop Middle School,public,"7,8",m,Chula Vista,CA,91910,Sweetwater Union High School District,32.630219,-117.063942,4,2020,18.67491953
+605863,Silver Strand Elementary School,public,"KG,1,2,3,4,5",e,Coronado,CA,92118,Coronado Unified School District,32.644417,-117.144562,9,2020,18.79267837
+606264,Richland Elementary,public,"KG,1,2,3,4,5",e,San Marcos,CA,92069,San Marcos Unified School District,33.155914,-117.140816,8,2020,18.85284962
+617469,High Tech High North County School,charter,"9,10,11,12",h,San Marcos,CA,92078,Sbc - High Technical High School District,33.131485,-117.20153,8,2020,18.85580424
+625134,High Tech Middle North County School,charter,"6,7,8",m,San Marcos,CA,92078,Sbc - High Technical High School District,33.131432,-117.202316,6,2020,18.87660035
+606266,San Marcos High School,public,"9,10,11,12",h,San Marcos,CA,92078,San Marcos Unified School District,33.130116,-117.205093,7,2020,18.88483478
+605830,Cook (Hazel Goes) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.626072,-117.054764,6,2020,18.91347571
+631113,High Tech Elementary North County,charter,"KG,1,2,3,4,5",e,San Marcos,CA,92078,Sbc - High Technical High School District,33.131439,-117.203773,5,2020,18.92154548
+612034,Heritage Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.62645,-116.996651,9,2020,18.94171027
+605887,Paul Ecke-Central Elementary School,public,"KG,1,2,3,4,5,6",e,Encinitas,CA,92024,Encinitas Union Elementary School District,33.057964,-117.298004,7,2020,18.97699678
+606267,San Marcos Middle School,public,"6,7,8",m,San Marcos,CA,92069,San Marcos Unified School District,33.147007,-117.174973,5,2020,19.05456958
+605850,Rogers (Greg) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.621983,-117.034714,5,2020,19.14653958
+614617,Reidy Creek Elementary School,public,"KG,1,2,3,4,5",e,Escondido,CA,92026,Escondido Union School District,33.171848,-117.092278,5,2020,19.17881492
+605844,Mueller Charter (Robert L.) School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Chula Vista,CA,91910,Chula Vista Elementary School District,32.626228,-117.092842,6,2020,19.19199175
+614720,Veterans Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.624741,-116.97715,8,2020,19.21066213
+605879,Capri Elementary School,public,"KG,1,2,3,4,5,6",e,Encinitas,CA,92024,Encinitas Union Elementary School District,33.075764,-117.287971,6,2020,19.25961885
+605839,Kellogg (Karl H.) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.620335,-117.047752,6,2020,19.2839021
+625145,Leonardo Da Vinci Health Sciences Charter School,charter,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.620281,-117.047707,5,2020,19.28749798
+612628,Otay Ranch Senior High School,public,"9,10,11,12",h,Chula Vista,CA,91913,Sweetwater Union High School District,32.620369,-116.990395,8,2020,19.40037407
+606283,Chula Vista Senior High School,public,"9,10,11,12",h,Chula Vista,CA,91911,Sweetwater Union High School District,32.620853,-117.078674,4,2020,19.42239924
+611229,Carrillo Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92009,San Marcos Unified School District,33.120968,-117.238297,8,2020,19.47801273
+605827,Chula Vista Learning Community Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Chula Vista,CA,91911,Chula Vista Elementary School District,32.620686,-117.084953,6,2020,19.48923223
+605849,Rice (Lilian J.) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.618587,-117.075226,6,2020,19.55000186
+631024,Camarena (Enrique S.) Elementary,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91915,Chula Vista Elementary School District,32.62265,-116.957962,8,2020,19.56424124
+617476,High Tech High Chula Vista School,charter,"9,10,11,12",h,Chula Vista,CA,91915,Sbc - High Technical High School District,32.622231,-116.959618,7,2020,19.57190774
+606260,La Mirada Academy,public,"KG,1,2,3,4,5,6,7,8","e,m",San Marcos,CA,92078,San Marcos Unified School District,33.143063,-117.203117,3,2020,19.58790187
+612451,Hedenkamp (Anne And William) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.615837,-117.015823,8,2020,19.58963799
+605848,Parkview Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.613731,-117.031197,10,2020,19.71544857
+625634,High Tech Elementary Chula Vista School,charter,"KG,1,2,3,4,5",e,Chula Vista,CA,91915,Sbc - High Technical High School District,32.61924,-116.95858,6,2020,19.78667218
+625635,High Tech Middle Chula Vista School,charter,"6,7,8",m,Chula Vista,CA,91915,Sbc - High Technical High School District,32.61924,-116.95858,4,2020,19.78667218
+605826,Castle Park Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.613529,-117.056839,6,2020,19.78670635
+632702,Muraoka (Saburo) Elementary,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.614487,-116.992142,8,2020,19.7920253
+605847,Palomar Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.612782,-117.043137,5,2020,19.79370425
+617538,Poinsettia Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92009,Carlsbad Unified School District,33.117279,-117.254433,8,2020,19.87431121
+611843,Aviara Oaks Middle School,public,"6,7,8",m,Carlsbad,CA,92011,Carlsbad Unified School District,33.103992,-117.277161,9,2020,20.10024793
+605864,Aviara Oaks Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92011,Carlsbad Unified School District,33.104034,-117.277359,9,2020,20.11043347
+606263,Paloma Elementary School,public,"KG,1,2,3,4,5",e,San Marcos,CA,92069,San Marcos Unified School District,33.159687,-117.185661,8,2020,20.11380442
+617509,Wolf Canyon Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91913,Chula Vista Elementary School District,32.611263,-116.974571,8,2020,20.15392024
+606281,Castle Park Senior High School,public,"9,10,11,12",h,Chula Vista,CA,91911,Sweetwater Union High School District,32.606277,-117.050285,5,2020,20.26166876
+605836,Harborside Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.608524,-117.085464,4,2020,20.32367492
+606280,Castle Park Middle School,public,"7,8",m,Chula Vista,CA,91911,Sweetwater Union High School District,32.605862,-117.059227,6,2020,20.32570868
+627082,Hawking S.T.E.A.M. Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Chula Vista,CA,91911,Sweetwater Union High School District,32.605904,-117.06115,5,2020,20.3321579
+605840,Lauderbach (J. Calvin) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.606689,-117.070557,6,2020,20.3327364
+617054,Olympian High School,public,"9,10,11,12",h,Chula Vista,CA,91913,Sweetwater Union High School District,32.608746,-116.972733,8,2020,20.34302882
+605856,Valle Lindo Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.604637,-117.031868,6,2020,20.3438509
+612044,Maac Community Charter School,charter,"9,10,11,12",h,Chula Vista,CA,91911,Sweetwater Union High School District,32.604298,-117.06543,1,2020,20.46556849
+605851,Rohr (Fred H.) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.601673,-117.041885,4,2020,20.55841277
+611127,Foothills High School,public,"9,10,11,12",h,San Marcos,CA,92069,San Marcos Unified School District,33.178188,-117.156593,2,2020,20.61252439
+606268,Twin Oaks High School,public,"9,10,11,12",h,San Marcos,CA,92069,San Marcos Unified School District,33.178188,-117.156593,2,2020,20.61252439
+605841,Loma Verde Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.601093,-117.049156,6,2020,20.61583631
+624650,Joli Ann Leichtag Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92081,San Marcos Unified School District,33.156395,-117.211472,7,2020,20.62682093
+606269,Twin Oaks Elementary School,public,"KG,1,2,3,4,5",e,San Marcos,CA,92069,San Marcos Unified School District,33.178677,-117.156952,6,2020,20.65147203
+605843,Montgomery (John J.) Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.597694,-117.068695,6,2020,20.9387544
+605846,Otay Elementary School,public,"KG,1,2,3,4,5,6",e,Chula Vista,CA,91911,Chula Vista Elementary School District,32.596123,-117.056976,6,2020,20.98664919
+611125,Pacific Rim Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92011,Carlsbad Unified School District,33.110909,-117.305359,9,2020,21.61147551
+605834,Finney (Myrtle S.) Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,Chula Vista Elementary School District,32.585049,-117.049339,7,2020,21.72351399
+606291,Montgomery Senior High School,public,"9,10,11,12",h,San Diego,CA,92154,Sweetwater Union High School District,32.583939,-117.062653,5,2020,21.85173674
+606074,Bayside Elementary School,public,"KG,1,2,3,4,5,6",e,Imperial Beach,CA,91932,South Bay Union School District,32.588299,-117.113304,2,2020,21.99964147
+605838,Juarez-Lincoln Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,Chula Vista Elementary School District,32.580112,-117.044952,6,2020,22.05333739
+612483,Hannalei Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92083,Vista Unified School District,33.178101,-117.217155,4,2020,22.09092174
+605853,Silver Wing Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,Chula Vista Elementary School District,32.579575,-117.053177,7,2020,22.11319796
+606084,Sunnyslope Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,South Bay Union School District,32.580521,-117.079269,3,2020,22.18852325
+606290,Montgomery Middle School,public,"7,8",m,San Diego,CA,92154,Sweetwater Union High School District,32.578342,-117.054443,4,2020,22.20264829
+606326,Rancho Buena Vista High School,public,"9,10,11,12",h,Vista,CA,92081,Vista Unified School District,33.164249,-117.24791,7,2020,22.21815962
+606083,Howard Pence Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,South Bay Union School District,32.578541,-117.061707,4,2020,22.21890962
+611120,Teofilo Mendoza School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,South Bay Union School District,32.578144,-117.08934,3,2020,22.43251892
+606077,Emory Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,South Bay Union School District,32.576096,-117.092186,5,2020,22.59787242
+605842,Los Altos Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,Chula Vista Elementary School District,32.572117,-117.050079,5,2020,22.61807076
+612043,Ocean View Hills School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,San Ysidro Elementary School District,32.57164,-117.02533,7,2020,22.62601128
+606076,Central Elementary School,public,"KG,1,2,3,4,5,6",e,Imperial Beach,CA,91932,South Bay Union School District,32.577801,-117.106415,2,2020,22.62720556
+627081,Vista Del Mar,public,"7,8",m,San Diego,CA,92154,San Ysidro Elementary School District,32.570698,-117.028282,7,2020,22.68927324
+606079,Imperial Beach Charter School,charter,"KG,1,2,3,4,5,6,7,8","e,m",Imperial Beach,CA,91932,South Bay Union School District,32.578617,-117.119385,6,2020,22.73040501
+606324,Monte Vista Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92084,Vista Unified School District,33.19117,-117.212128,4,2020,22.74705531
+611132,Valley Center Middle,public,"6,7,8",m,Valley Center,CA,92082,Valley Center-Pauma Unified School District,33.226009,-116.977516,3,2020,22.79989312
+606288,Mar Vista Academy,public,"7,8",m,San Diego,CA,92154,Sweetwater Union High School District,32.573246,-117.095474,3,2020,22.82298458
+606289,Mar Vista Senior High School,public,"9,10,11,12",h,Imperial Beach,CA,91932,Sweetwater Union High School District,32.577896,-117.122803,4,2020,22.82458461
+606295,Southwest Middle School,public,"7,8",m,San Diego,CA,92173,Sweetwater Union High School District,32.57011,-117.07383,2,2020,22.86565611
+606080,Nestor Language Academy Charter,charter,"KG,1,2,3,4,5,6,7,8","e,m",San Diego,CA,92154,South Bay Union School District,32.570011,-117.083679,7,2020,22.94189792
+606082,Oneonta Elementary School,public,"KG,1,2,3,4,5,6",e,Imperial Beach,CA,91932,South Bay Union School District,32.572865,-117.111588,3,2020,23.0212292
+606296,Southwest Senior High School,public,"9,10,11,12",h,San Diego,CA,92154,Sweetwater Union High School District,32.568024,-117.082901,5,2020,23.07200157
+606320,Lake Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92056,Vista Unified School District,33.1744,-117.256546,6,2020,23.07908459
+606081,George Nicoloff Elementary School,public,"KG,1,2,3,4,5,6",e,San Ysidro,CA,92173,South Bay Union School District,32.566074,-117.065819,3,2020,23.09736662
+631104,Sage Creek High School,public,"9,10,11,12",h,Carlsbad,CA,92010,Carlsbad Unified School District,33.15707,-117.285957,9,2020,23.15144718
+612223,San Ysidro High School,public,"9,10,11,12",h,San Diego,CA,92154,Sweetwater Union High School District,32.564159,-117.018349,4,2020,23.15212199
+606322,Madison Middle School,public,"6,7,8",m,Oceanside,CA,92056,Vista Unified School District,33.174652,-117.258568,5,2020,23.15989909
+606075,Godfrey G. Berry Elementary School,public,"KG,1,2,3,4,5,6",e,San Diego,CA,92154,South Bay Union School District,32.5676,-117.090714,2,2020,23.16478681
+606299,La Mirada Elementary School,public,"KG,1,2,3,4,5,6",e,San Ysidro,CA,92173,San Ysidro Elementary School District,32.563625,-117.046509,4,2020,23.19510358
+606301,Smythe Elementary School,public,"KG,1,2,3,4,5,6",e,San Ysidro,CA,92173,San Ysidro Elementary School District,32.563396,-117.050255,4,2020,23.22042141
+611134,Valley Center Elementary,public,"3,4,5",e,Valley Center,CA,92082,Valley Center-Pauma Unified School District,33.235435,-117.022942,4,2020,23.24493271
+612227,Valley Center Prep,public,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Valley Center,CA,92082,Valley Center-Pauma Unified School District,33.235435,-117.022942,2,2020,23.24493271
+606321,Rancho Minerva Middle School,public,"6,7,8",m,Vista,CA,92084,Vista Unified School District,33.203365,-117.206314,3,2020,23.34910957
+606300,San Ysidro Middle School,public,"7,8",m,San Ysidro,CA,92173,San Ysidro Elementary School District,32.560375,-117.038643,3,2020,23.4062827
+606311,Beaumont Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92084,Vista Unified School District,33.198147,-117.223885,4,2020,23.49178359
+606302,Sunset Elementary School,public,"KG,1,2,3,4,5,6",e,San Ysidro,CA,92173,San Ysidro Elementary School District,32.557564,-117.050209,5,2020,23.62278574
+606313,Breeze Hill Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92081,Vista Unified School District,33.185669,-117.254753,8,2020,23.66746182
+605869,Kelly Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92008,Carlsbad Unified School District,33.148766,-117.311562,9,2020,23.70466775
+614745,Calavera Hills Middle School,public,"6,7,8",m,Carlsbad,CA,92010,Carlsbad Unified School District,33.172318,-117.290298,6,2020,24.12702723
+612224,Calavera Hills Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92010,Carlsbad Unified School District,33.172188,-117.290848,7,2020,24.13986044
+617478,"Vista Magnet Middle School Of Technology, Science, And Math",public,"6,7,8",m,Vista,CA,92084,Vista Unified School District,33.203304,-117.237846,7,2020,24.19569637
+625347,Willow Elementary,public,"KG,1,2,3,4,5,6",e,San Ysidro,CA,92173,San Ysidro Elementary School District,32.548073,-117.041534,4,2020,24.25980837
+605982,Descanso Elementary School,public,"KG,1,2,3,4,5,6",e,Descanso,CA,91916,Mountain Empire Unified School District,32.858994,-116.613556,6,2020,24.37701418
+617524,Major General Raymond Murray High School,public,"10,11,12",h,Vista,CA,92083,Vista Unified School District,33.19846,-117.254936,2,2020,24.41681683
+605867,Hope Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92010,Carlsbad Unified School District,33.170727,-117.304764,8,2020,24.57350218
+614143,Foothill Oak Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92084,Vista Unified School District,33.217476,-117.222878,4,2020,24.64779972
+631146,Bella Mente Montessori Academy,charter,"KG,1,2,3,4,5,6,7,8","e,m",Vista,CA,92083,Vista Unified School District,33.18956,-117.278519,4,2020,24.66659003
+606329,Vista Academy Of Visual And Performing Arts,public,"KG,1,2,3,4,5",e,Vista,CA,92083,Vista Unified School District,33.208099,-117.24575,3,2020,24.71114246
+606330,Vista Innovation and Design Academy,public,"6,7,8",m,Vista,CA,92083,Vista Unified School District,33.203163,-117.259247,6,2020,24.82459766
+605871,Magnolia Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92008,Carlsbad Unified School District,33.15955,-117.326523,9,2020,24.84090062
+606315,Casita Center For Science/Math/Technology,public,"KG,1,2,3,4,5",e,Vista,CA,92083,Vista Unified School District,33.189163,-117.284836,8,2020,24.85895336
+606310,Alta Vista High (Continuation) School,public,"9,10,11,12",h,Vista,CA,92084,Vista Unified School District,33.222675,-117.219246,1,2020,24.87589322
+612421,Lilac School,public,"KG,1,2,3,4,5,6",e,Valley Center,CA,92082,Valley Center-Pauma Unified School District,33.25803,-117.069016,5,2020,24.89925684
+605873,Valley Middle School,public,"6,7,8",m,Carlsbad,CA,92008,Carlsbad Unified School District,33.158474,-117.329506,8,2020,24.90683883
+605868,Jefferson Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92008,Carlsbad Unified School District,33.151993,-117.339149,7,2020,24.98314216
+611124,Carlsbad Seaside Academy,public,"9,10,11,12",h,Carlsbad,CA,92008,Carlsbad Unified School District,33.16346,-117.327995,6,2020,25.09544534
+605866,Carlsbad High School,public,"9,10,11,12",h,Carlsbad,CA,92008,Carlsbad Unified School District,33.16346,-117.327995,8,2020,25.09544534
+605870,Carlsbad Village Academy,public,"10,11,12",h,Carlsbad,CA,92008,Carlsbad Unified School District,33.16346,-117.327995,2,2020,25.09544534
+606318,Grapevine Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92083,Vista Unified School District,33.200413,-117.27433,5,2020,25.14319845
+624630,North County Trade Tech High School,charter,"9,10,11,12",h,Vista,CA,92083,Vista Unified School District,33.212383,-117.25573,4,2020,25.26011284
+627084,Vista Visions Academy,public,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Vista,CA,92084,Vista Unified School District,33.220715,-117.241432,3,2020,25.34647495
+606312,Bobier Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92083,Vista Unified School District,33.220543,-117.247406,3,2020,25.50428996
+606328,Vista High School,public,"9,10,11,12",h,Vista,CA,92084,Vista Unified School District,33.223701,-117.241127,4,2020,25.5190314
+616896,Maryland Elementary School,public,"KG,1,2,3,4,5",e,Vista,CA,92083,Vista Unified School District,33.214821,-117.260628,3,2020,25.55102713
+613792,SIATech School,charter,"11,12",h,Oceanside,CA,92056,Vista Unified School District,33.216091,-117.26989,1,2020,25.9083848
+605865,Buena Vista Elementary School,public,"KG,1,2,3,4,5",e,Carlsbad,CA,92008,Carlsbad Unified School District,33.169758,-117.34301,7,2020,26.01026943
+632444,Audeo Charter School II,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Carlsbad,CA,92008,Sbe - Audeo Charter II,33.178326,-117.332336,4,2020,26.01976773
+612481,T.H.E Leadership Academy,public,"KG,1,2,3,4,5",e,Oceanside,CA,92056,Vista Unified School District,33.218586,-117.269447,5,2020,26.04057191
+632713,Coastal Academy Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Oceanside,CA,92056,Oceanside Unified School District,33.206524,-117.292923,6,2020,26.10441299
+606319,Guajome Park Academy Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Vista,CA,92083,Vista Unified School District,33.230122,-117.248772,6,2020,26.12048852
+625637,Guajome Learning Center,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Vista,CA,92083,Vista Unified School District,33.230576,-117.250137,6,2020,26.18616638
+606010,Christa Mcauliffe Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92056,Oceanside Unified School District,33.199448,-117.307037,4,2020,26.1992121
+611128,Valley Center High,public,"9,10,11,12",h,Valley Center,CA,92082,Valley Center-Pauma Unified School District,33.279987,-117.02401,5,2020,26.32163496
+611844,Oak Glen High School,public,"9,10,11,12",h,Valley Center,CA,92082,Valley Center-Pauma Unified School District,33.282681,-117.026245,2,2020,26.50610809
+625173,San Diego Neighborhood Homeschools,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Oceanside,CA,92056,Mountain Empire Unified School District,33.208,-117.303032,2,2020,26.53085488
+606317,Empresa Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92056,Vista Unified School District,33.223427,-117.288773,8,2020,26.92851417
+606018,South Oceanside Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92054,Oceanside Unified School District,33.177113,-117.356873,4,2020,26.93410964
+611126,Pacific View Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Oceanside,CA,92056,Oceanside Unified School District,33.210648,-117.311508,2,2020,26.97095082
+606004,Ivey Ranch Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Oceanside Unified School District,33.218555,-117.300995,8,2020,27.05213069
+606006,Martin Luther King Jr. Middle School,public,"6,7,8",m,Oceanside,CA,92057,Oceanside Unified School District,33.215111,-117.309723,6,2020,27.15588999
+606016,Palmquist Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92054,Oceanside Unified School District,33.187599,-117.350998,5,2020,27.22195186
+606323,Mission Meadows Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Vista Unified School District,33.24622,-117.256958,6,2020,27.32307033
+606009,Lincoln Middle School,public,"6,7,8",m,Oceanside,CA,92054,Oceanside Unified School District,33.188961,-117.352097,5,2020,27.33412144
+606327,Roosevelt Middle School,public,"6,7,8",m,Oceanside,CA,92057,Vista Unified School District,33.235546,-117.280724,3,2020,27.37969602
+606309,Alamosa Park Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Vista Unified School District,33.239193,-117.281708,7,2020,27.62372339
+606002,El Camino High School,public,"9,10,11,12",h,Oceanside,CA,92057,Oceanside Unified School District,33.219131,-117.317436,6,2020,27.64522102
+605938,Julian High School,public,"9,10,11,12",h,Julian,CA,92036,Julian Union High School District,33.076538,-116.59539,6,2020,28.06270024
+611103,Julian Charter School,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Julian,CA,92036,Julian Union Elementary School District,33.078079,-116.59581,6,2020,28.08733083
+625014,Mission Vista High School,public,"9,10,11,12",h,Oceanside,CA,92057,Vista Unified School District,33.256004,-117.264168,10,2020,28.11611157
+631160,Harbor Springs Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Julian,CA,92036,Julian Union Elementary School District,33.078651,-116.594856,3,2020,28.15429741
+605936,Julian Elementary School,public,"KG,1,2,3,4,5",e,Julian,CA,92036,Julian Union Elementary School District,33.079201,-116.594528,5,2020,28.18805349
+605937,Julian Junior High School,public,"6,7,8",m,Julian,CA,92036,Julian Union Elementary School District,33.079201,-116.594528,5,2020,28.18805349
+606019,San Luis Rey Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92054,Oceanside Unified School District,33.220215,-117.335228,3,2020,28.33407484
+632698,Scholarship Prep - Oceanside,charter,"KG,1,2,3,4,5,6,7,8","e,m",Oceanside,CA,92057,San Diego County Office Of Education School District,33.232372,-117.317001,6,2020,28.36689885
+617597,Cesar Chavez Middle School,public,"6,7,8",m,Oceanside,CA,92057,Oceanside Unified School District,33.24229,-117.301041,4,2020,28.40641257
+606014,Oceanside High School,public,"9,10,11,12",h,Oceanside,CA,92054,Oceanside Unified School District,33.197025,-117.374153,5,2020,28.61645644
+606011,Mission Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92058,Oceanside Unified School District,33.207664,-117.362495,3,2020,28.69281817
+612226,Nichols Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Oceanside Unified School District,33.238499,-117.316887,4,2020,28.707495
+631970,Bonsall High,public,"9,10,11,12",h,Bonsall,CA,92003,Bonsall Unified School District,33.297405,-117.175667,5,2020,28.76868965
+605790,Norman L. Sullivan Middle School,public,"6,7,8",m,Bonsall,CA,92003,Bonsall Unified School District,33.297405,-117.175667,7,2020,28.76868965
+606005,Jefferson Middle School,public,"6,7,8",m,Oceanside,CA,92058,Oceanside Unified School District,33.210037,-117.363342,4,2020,28.84739707
+611130,Pauma Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Pauma Valley,CA,92061,Valley Center-Pauma Unified School District,33.315815,-116.999474,3,2020,28.85159755
+605789,Bonsall Elementary School,public,"KG,1,2,3,4,5",e,Bonsall,CA,92003,Bonsall Unified School District,33.286892,-117.219475,8,2020,28.93283893
+606000,Del Rio Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Oceanside Unified School District,33.256699,-117.295967,4,2020,29.08593958
+606008,Libby Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Oceanside Unified School District,33.251762,-117.305336,4,2020,29.08959698
+606007,Laurel Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92054,Oceanside Unified School District,33.207382,-117.373169,3,2020,29.09584674
+617595,Louise Foussat Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92058,Oceanside Unified School District,33.23885,-117.329468,4,2020,29.15320318
+614993,Bonsall West Elementary School,public,"KG,1,2,3,4,5,6",e,Oceanside,CA,92057,Bonsall Unified School District,33.264084,-117.292389,8,2020,29.41318056
+606017,Reynolds Elementary School,public,"KG,1,2,3,4,5",e,Oceanside,CA,92057,Oceanside Unified School District,33.256466,-117.312729,5,2020,29.59593684
+627075,Pine Valley Middle,public,"7,8",m,Pine Valley,CA,91962,Mountain Empire Unified School District,32.819557,-116.525467,3,2020,29.84719823
+606012,North Terrace Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Oceanside,CA,92058,Oceanside Unified School District,33.218719,-117.379639,8,2020,29.92480147
+606021,Santa Margarita Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Oceanside,CA,92058,Oceanside Unified School District,33.230938,-117.378998,8,2020,30.52775423
+605988,Potrero Elementary School,public,"KG,1,2,3,4,5,6",e,Potrero,CA,91963,Mountain Empire Unified School District,32.610504,-116.61277,2,2020,31.43194229
+606333,Warner Junior/Senior High School,public,"7,8,9,10,11,12","m,h",Warner Springs,CA,92086,Warner Unified School District,33.251839,-116.670265,3,2020,32.09575975
+605791,Vivian Banks Charter School,charter,"KG,1,2,3,4,5",e,Pala,CA,92059,Bonsall Unified School District,33.366032,-117.073547,2,2020,32.35777399
+606022,Stuart Mesa Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Oceanside,CA,92058,Oceanside Unified School District,33.254086,-117.408295,6,2020,32.84780096
+605917,Mary Fay Pendleton Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Oceanside,CA,92058,Fallbrook Union Elementary School District,33.321548,-117.30146,9,2020,33.12365317
+605921,Ivy High (Continuation) School,public,"9,10,11,12",h,Fallbrook,CA,92028,Fallbrook Union High School District,33.347767,-117.236427,2,2020,33.20379037
+611106,Hillside Junior/Senior High School,public,"7,8,9,10,11,12","m,h",Pine Valley,CA,91962,Mountain Empire Unified School District,32.734352,-116.492943,2,2020,33.24843352
+632169,County Collaborative Charter,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Pine Valley,CA,91962,Mountain Empire Unified School District,32.734352,-116.492943,3,2020,33.24843352
+605979,Campo High (Continuation) School,public,"9,10,11,12",h,Pine Valley,CA,91962,Mountain Empire Unified School District,32.734352,-116.492943,1,2020,33.24843352
+605984,Mountain Empire High School,public,"9,10,11,12",h,Pine Valley,CA,91962,Mountain Empire Unified School District,32.734352,-116.492943,5,2020,33.24843352
+605920,Fallbrook High School,public,"9,10,11,12",h,Fallbrook,CA,92028,Fallbrook Union High School District,33.348896,-117.240051,5,2020,33.35211453
+611100,Oasis High (Alternative) School,public,"9,10,11,12",h,Fallbrook,CA,92028,Fallbrook Union High School District,33.351536,-117.236641,5,2020,33.45137758
+605918,James E. Potter Intermediate School,public,"7,8",m,Fallbrook,CA,92028,Fallbrook Union Elementary School District,33.367989,-117.222412,4,2020,34.24060795
+632179,California Pacific Charter Schools - San Diego,charter,"KG,1,2,3,4,5,6,7,8,9,10,11,12","e,m,h",Warner Springs,CA,92086,Warner Unified School District,33.274227,-116.644112,4,2020,34.25403954
+605915,Live Oak Elementary School,public,"KG,1,2,3,4,5,6",e,Fallbrook,CA,92028,Fallbrook Union Elementary School District,33.370728,-117.216492,4,2020,34.31096847
+605914,La Paloma Elementary School,public,"KG,1,2,3,4,5,6",e,Fallbrook,CA,92028,Fallbrook Union Elementary School District,33.379398,-117.235046,6,2020,35.22544894
+605912,Fallbrook Street Elementary School,public,"KG,1,2,3,4,5,6",e,Fallbrook,CA,92028,Fallbrook Union Elementary School District,33.377213,-117.254822,4,2020,35.48476767
+611099,William H. Frazier Elementary School,public,"KG,1,2,3,4,5,6",e,Fallbrook,CA,92028,Fallbrook Union Elementary School District,33.38702,-117.224754,6,2020,35.52950091
+605916,Maie Ellis Elementary,public,"KG,1,2,3,4,5,6",e,Fallbrook,CA,92028,Fallbrook Union Elementary School District,33.379829,-117.255165,5,2020,35.66024582
+606304,Vallecitos Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Rainbow,CA,92028,Vallecitos Elementary School District,33.413502,-117.148712,6,2020,36.19053774
+605980,Campo Elementary School,public,"KG,1,2,3,4,5,6,7,8","e,m",Campo,CA,91906,Mountain Empire Unified School District,32.642616,-116.486786,5,2020,36.24092485
+627074,Camp Lockett Middle,public,"7,8",m,Campo,CA,91906,Mountain Empire Unified School District,32.616413,-116.476082,2,2020,37.69422434
+614896,Great Oak High School,public,"9,10,11,12",h,Temecula,CA,92592,Temecula Valley Unified School District,33.451641,-117.091911,10,2020,38.34123678
+611810,Helen Hunt Jackson Elementary School,public,"KG,1,2,3,4,5",e,Temecula,CA,92592,Temecula Valley Unified School District,33.459839,-117.091545,8,2020,38.90337468
+617628,Temecula Luiseno Elementary School,public,"KG,1,2,3,4,5",e,Temecula,CA,92592,Temecula Valley Unified School District,33.464108,-117.106514,7,2020,39.28399344
+614133,Tony Tobin Elementary School,public,"KG,1,2,3,4,5",e,Temecula,CA,92592,Temecula Valley Unified School District,33.469589,-117.067879,7,2020,39.47668361
+604506,Red Hawk Elementary School,public,"KG,1,2,3,4,5",e,Temecula,CA,92592,Temecula Valley Unified School District,33.468445,-117.099236,9,2020,39.53754334
+612583,Erle Stanley Gardner Middle School,public,"6,7,8",m,Temecula,CA,92592,Temecula Valley Unified School District,33.469505,-117.110756,8,2020,39.68236047
+604503,Pauba Valley Elementary School,public,"KG,1,2,3,4,5",e,Temecula,CA,92592,Temecula Valley Unified School District,33.472229,-117.080856,9,2020,39.70630818
